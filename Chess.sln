@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{38100AEB-14F9-4890-A45C-B322E26A0702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitboardChess", "BitboardChess\BitboardChess.csproj", "{113C9D37-A266-4B0F-83D6-B9C464B738B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBoardChessCreating", "BitBoardChessCreating\BitBoardChessCreating.csproj", "{39230EA9-7769-494E-86CD-174A73FAE841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChess", "MyChess\MyChess.csproj", "{CD4F49D7-9C49-4669-AABE-026D5F26707E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38100AEB-14F9-4890-A45C-B322E26A0702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38100AEB-14F9-4890-A45C-B322E26A0702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38100AEB-14F9-4890-A45C-B322E26A0702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38100AEB-14F9-4890-A45C-B322E26A0702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113C9D37-A266-4B0F-83D6-B9C464B738B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113C9D37-A266-4B0F-83D6-B9C464B738B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113C9D37-A266-4B0F-83D6-B9C464B738B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113C9D37-A266-4B0F-83D6-B9C464B738B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39230EA9-7769-494E-86CD-174A73FAE841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39230EA9-7769-494E-86CD-174A73FAE841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39230EA9-7769-494E-86CD-174A73FAE841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39230EA9-7769-494E-86CD-174A73FAE841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4F49D7-9C49-4669-AABE-026D5F26707E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4F49D7-9C49-4669-AABE-026D5F26707E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4F49D7-9C49-4669-AABE-026D5F26707E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4F49D7-9C49-4669-AABE-026D5F26707E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
